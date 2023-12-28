@@ -1,0 +1,20 @@
+{
+    "name": "hp/mysql-notes",
+    "autoload": {
+        "psr-4": {
+            "Hp\\MysqlNotes\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "abdessamad",
+            "email": "wourkout123@gmail.com"
+        }
+    ],
+    "autoload-dev": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
